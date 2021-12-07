@@ -1,2 +1,2 @@
-# Programas Produzidos em JavaScript
+# Programas Produzidos em Java Script
  - Primeiros Programas 
