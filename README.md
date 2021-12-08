@@ -1,2 +1,3 @@
 # Programas Produzidos em Java Script
- - Primeiros Programas 
+ - Primeiros Programas
+ - Programas em typescript 
